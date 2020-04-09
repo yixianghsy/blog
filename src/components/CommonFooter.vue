@@ -1,7 +1,7 @@
 <template>
     <footer>
         <div class="wrapper">
-            Copyright © 易翔
+            Copyright © 小滴
         </div>
     </footer>
 </template>
